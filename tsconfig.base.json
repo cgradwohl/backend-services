@@ -16,6 +16,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@backend-services/service": ["libs/service/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
