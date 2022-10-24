@@ -16,7 +16,6 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@backend-services/courier-cdk": ["libs/courier-cdk/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

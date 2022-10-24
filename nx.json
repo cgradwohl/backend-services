@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "backend-services",
+  "npmScope": "courier-services",
   "tasksRunnerOptions": {
     "default": {
       "runner": "nx/tasks-runners/default",
