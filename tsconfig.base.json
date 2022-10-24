@@ -16,6 +16,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@courier-services/cdk": ["libs/cdk/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
